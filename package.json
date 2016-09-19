@@ -60,6 +60,7 @@
   },
   "dependencies": {
     "debug": "^2.2.0",
+    "msgpack-lite": "git+https://github.com/gordomium/msgpack-lite.git#45d9e22688edc3f03ea0e0028aef8f1df04853a0",
     "node-uuid": "~1.4.3",
     "qlobber": "~0.7.0",
     "steed": "^1.1.3"
